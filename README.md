@@ -1,1 +1,1 @@
-# Lista-1
+Aqui está os exercícios que ja fiz em c.
